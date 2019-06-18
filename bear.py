@@ -1,2 +1,2 @@
-hello_from = "bear
-"
+hello_from = "bear"
+hi_from ="ben"
